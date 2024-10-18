@@ -503,7 +503,9 @@ body {
 .extrainfo {
   margin-top: 15px;
   font-size: 1rem;
+  font-weight: bold;
   color: #fff;
+  margin-top: 90px;
 }
 
 .howItWorkscards {
